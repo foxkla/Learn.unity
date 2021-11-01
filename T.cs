@@ -1,2 +1,1 @@
 Consule.WriteLine("sb");
-niubi
